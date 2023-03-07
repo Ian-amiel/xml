@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cellphones>
+  <brand name="Apple">
+    <model name="iPhone 13 Pro">
+      <price currency="PESO">₱75,990</price>
+      <type_phone name="IOS">
+        <specs>
+          <color>Graphite</color>
+          <storage type="GB">128GB</storage>
+          <display>
+            <type>OLED</type>
+            <size>6.1 inches</size>
+            <resolution>2532 x 1170 pixels</resolution>
+          </display>
+          <camera>
+            <type>Triple</type>
+            <resolution>12MP + 12MP + 12MP</resolution>
+            <features>Night mode, Deep Fusion, ProRAW</features>
+          </camera>
+          <processor>
+            <name>A15 Bionic</name>
+            <speed>Hexa-core 3.22 GHz</speed>
+          </processor>
+          <battery>
+            <capacity>3095 mAh</capacity>
+            <type>Lithium-ion</type>
+          </battery>
+        </specs>
+      </type_phone>
+    </model>
+  </brand>
+  
+  <brand name="Samsung">
+    <model name="Galaxy S21">
+      <price currency="PESO">₱14,990</price>
+      <type_phone name="Android">
+        <specs>
+          <color>Phantom Gray</color>
+          <storage size="256">256GB</storage>
+          <display>
+              <type>Dynamic AMOLED 2X</type>
+              <size>6.2 inches</size>
+              <resolution>1080 x 2400 pixels</resolution>
+            </display>
+            <camera>
+              <type>Triple</type>
+              <resolution>12MP + 64MP + 12MP</resolution>
+              <features>Night mode, Super Slow-mo, 8K video recording</features>
+            </camera>
+            <processor>
+              <name>Exynos 2100</name>
+              <speed>Octa-core 2.9 GHz</speed>
+            </processor>
+            <battery>
+              <capacity>4000 mAh</capacity>
+              <type>Lithium-ion</type>
+            </battery>
+        </specs>
+      </type_phone>
+    </model>
+  </brand>
+
+  <brand name="Vivo">
+    <model name="Vivo Y20">
+      <price currency="PESO">₱13,990</price>
+      <type_phone name="Android">
+        <specs>
+          <color>Obsidian Black</color>
+          <storage size="128">128GB</storage>
+          <display>
+              <type>IPS LCD</type>
+              <size>6.51 inches</size>
+              <resolution>720 x 1600 pixels</resolution>
+            </display>
+            <camera>
+              <type>Triple</type>
+              <resolution>13MP + 2MP + 2MP</resolution>
+              <features>LED flash,HDR</features>
+            </camera>
+            <processor>
+              <name>Qualcomm Snapdragon 460</name>
+              <speed>Octa-core 4X1.8 GHz Kryo 240</speed>
+            </processor>
+            <battery>
+              <capacity>5000 mAh</capacity>
+              <type>Li-Po </type>
+            </battery>
+        </specs>
+      </type_phone>
+    </model>
+  </brand>
+
+  <brand name="Xiaomi">
+    <model name="Redmi Note 11">
+      <price currency="PESO">₱19,990</price>
+      <type_phone name="Android">
+        <specs>
+          <color>Twilight Blue</color>
+          <storage size="128">128GB</storage>
+          <display>
+              <type>AMOLED</type>
+              <size>6.43 inches</size>
+              <resolution>1080 x 2400 pixels</resolution>
+            </display>
+            <camera>
+              <type>Triple</type>
+              <resolution>50MP + 2MP + 2MP</resolution>
+              <features>LED flash,HDR,panaroma</features>
+            </camera>
+            <processor>
+              <name>6nm Qualcomm Snapdragon 680</name>
+              <speed>Snapdragon 680 Octa-core Max 2.40GHz</speed>
+            </processor>
+            <battery>
+              <capacity>5000 mAh</capacity>
+              <type>Lithium-ion</type>
+            </battery>
+        </specs>
+      </type_phone>
+    </model>
+  </brand>
+</cellphones>
